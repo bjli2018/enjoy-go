@@ -33,7 +33,7 @@ func main() {
 	DB.SetMaxOpenConns(100)
 	DB.SetMaxIdleConns(16)
 	//queryOne(DB)
-	queryMulti(DB)
+	//queryMulti(DB)
 	//insertData(DB)
 	//updateData(DB)
 	//deleteData(DB)
